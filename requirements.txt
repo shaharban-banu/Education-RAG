@@ -1,1 +1,8 @@
-asdf
+langchain
+llama-index
+chromadb
+sentence-transformers
+huggingface_hub
+pypdf
+torch
+
