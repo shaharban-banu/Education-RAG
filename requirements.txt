@@ -1,8 +1,9 @@
-langchain
-llama-index
+streamlit
 chromadb
+langchain
+langchain-community
+langchain-huggingface
+pypdf
+python-dotenv
 sentence-transformers
 huggingface_hub
-pypdf
-torch
-
